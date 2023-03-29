@@ -1,6 +1,6 @@
 {
   "DatabaseSettings": {
-    "BDProvider": "MSSQL",
-    "ConnectionString": "Data Source=(localdb)\\mssqllocaldb;Initial Catalog=APDb;Integrated Security=True;MultipleActiveResultSets=True;"
+    "DBProvider": "mssql",
+    "ConnectionString": "Data Source=(localdb)\\mssqllocaldb;Initial Catalog=EducationDb;Integrated Security=True;MultipleActiveResultSets=True;"
   }
 }
