@@ -1,0 +1,15 @@
+{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": "Education System",
+    "Version": "v1",
+    "Description": "API for Education System using .NET 6.0",
+    "ContactName": "Salman Taj",
+    "ContactEmail": "salman1277@live.com",
+    "ContactUrl": "http://incognitotaj-001-site1.itempurl.com/",
+    "TermsOfUseUrl": "https://github.com/incognitotaj/api-basic/blob/main/README.md",
+    "License": true,
+    "LicenseName": "MIT License",
+    "LicenseUrl": "https://github.com/incognitotaj/api-basic/blob/main/LICENSE"
+  } 
+}

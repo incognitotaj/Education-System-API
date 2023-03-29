@@ -1,0 +1,6 @@
+{
+  "DatabaseSettings": {
+    "BDProvider": "MSSQL",
+    "ConnectionString": "Data Source=(localdb)\\mssqllocaldb;Initial Catalog=APDb;Integrated Security=True;MultipleActiveResultSets=True;"
+  }
+}
